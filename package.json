@@ -1,0 +1,17 @@
+{
+  "name": "zomboshell",
+  "version": "0.1.0",
+  "description": "This is ZomboShell",
+  "main": "index.js",
+  "bin": "index.js",
+  "dependencies": {
+    "bash-parser": "^0.5.0",
+    "supports-color": "^5.4.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshbolduc/zomboshell.git"
+  },
+  "license": "MIT"
+}
